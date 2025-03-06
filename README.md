@@ -17,13 +17,7 @@ Proyek ini merupakan sistem manajemen data berbasis web yang menggunakan PHP dan
 2. Pindahkan folder proyek ke direktori server lokal (misalnya `htdocs` jika menggunakan XAMPP).
 3. Buat database di MySQL dengan nama `dbinvoice`.
 4. Import file database yang tersedia dalam folder `database` ke dalam MySQL.
-5. Sesuaikan konfigurasi database di file `config.php`:
-   ```php
-   define('DB_HOST', 'localhost');
-   define('DB_USER', 'root');
-   define('DB_PASS', '');
-   define('DB_NAME', 'dbinvoice');
-   ```
+5. Sesuaikan konfigurasi database di file `conn.php`
 6. Jalankan proyek dengan mengakses:
    ```
    http://localhost/dbinvoice
