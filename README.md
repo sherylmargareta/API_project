@@ -24,7 +24,7 @@ Proyek ini merupakan sistem manajemen data berbasis web yang menggunakan PHP dan
    ```
 
 ## ⚠️ Catatan Penting
-- **IP address pembayaran dengan e-wallet tidak dapat diintegrasikan lagi** karena jalinan kolaborasi dari penyedia IP Dunia Bayar dengan Program Studi Sistem Informasi hanya bersifat temporer.
+**IP address pembayaran dengan e-wallet tidak dapat diintegrasikan lagi** karena jalinan kolaborasi dari penyedia IP Dunia Bayar dengan Program Studi Sistem Informasi hanya bersifat temporer.
 
 ## 🛠️ Teknologi yang Digunakan
 - PHP
